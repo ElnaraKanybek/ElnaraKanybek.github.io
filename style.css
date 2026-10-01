@@ -1,0 +1,16 @@
+html {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
+
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;   
+    filter: blur(10px);
+}
