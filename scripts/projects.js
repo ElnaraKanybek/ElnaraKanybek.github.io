@@ -24,7 +24,7 @@ const projects = [
 			"Lightweight autonomous AI coding agent for the command line that explores a codebase, reads and writes files, and runs Python code.",
 		tech_stack: [
 			"Python",
-			"OpenRouter",
+			"Gemini API",
 			"LLMs",
 			"uv",
 			"python-dotenv",
